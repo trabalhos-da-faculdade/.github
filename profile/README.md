@@ -1,10 +1,24 @@
-## Hi there 👋
+# Organização dos projetos da Faculdade
 
-**Here are some ideas to get you started:**
+* Esta organização serve para controle de projetos e programas criados na faculdade PUCRS
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+---
+
+<p align="center">
+  <img src="profile\images\Trabalhos Faculdade.gif">
+</p>
+
+---
+
+**Projetos desenvolvidos de 2017 até 2023**
+
+---
+
+## Glossário
+
+✔️ = Significa que o projeto funciona e continua funcionando
+🚧 = Significa que o projeto precisa ser arrumado
+❌ = Significa que o projeto não funciona e precisa refazer todo
+
+
 
