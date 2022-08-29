@@ -16,9 +16,10 @@
 
 ## Glossário
 
-✔️ = Significa que o projeto funciona e continua funcionando
-🚧 = Significa que o projeto precisa ser arrumado
-❌ = Significa que o projeto não funciona e precisa refazer todo
+* ✔️ = Significa que o projeto funciona e continua funcionando
+* 🚧 = Significa que o projeto precisa ser arrumado
+* ❌ = Significa que o projeto não funciona e precisa refazer todo
+* 🧾 = Significa que precisa melhorar a documentação do projeto
 
 
 
